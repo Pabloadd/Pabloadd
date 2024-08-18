@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pabloadd
-- 👀 I’m interested in mobile projects, and back-end website projects
-- 🌱 I’m currently learning django, postgre, git
-- 💞️ I’m looking to collaborate on python, c#, java projects
+- 👀 I’m interested in android apps projects and Data analyst
+- 🌱 I’m currently learning git
+- 💞️ I’m looking to collaborate on python, and with android projects
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/pabloantonio-dominguez and my email: domingezpablo265@gmail.com
 
 <!---
